@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "py_aquesa_db"  # as it would appear on PyPI
+version = "0.9"
+description='Official Python library to work with Aquesa DB'
